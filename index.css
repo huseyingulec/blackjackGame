@@ -1,0 +1,42 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: url("mountains.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    font-weight: bold;
+    font-size: 20px;
+    color: #2e0000;
+    text-align: center;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+p {
+    background-color:rgba(12, 192, 192, 0.685);
+    margin: 5px auto;
+    max-width: 40%;
+    border: 3px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bolder;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
